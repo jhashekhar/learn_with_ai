@@ -26,5 +26,5 @@ A simple command-line interface for chatting with Claude AI.
 Run the chat interface:
 
 ```bash
-./bin/chat.sh
+bin/chat.sh
 ```
